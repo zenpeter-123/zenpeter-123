@@ -1,7 +1,6 @@
 # Hi, I'm Patrik
 
 Mathematician (BSc, ELTE Budapest, 2026) interested in **probabilistic modelling, data analysis and applied machine learning**.
-I enjoy taking an idea from theory to working code: understanding the math, implementing it, and testing whether it actually works.
 
 Currently **open to entry-level roles** where I can use mathematics and programming, such as data analysis, modelling, software or research.
 
